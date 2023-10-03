@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Alex and I teach Data Science and Entrepreneurship to students and do research on entrepreneurs in digital markets. For teaching stuff and ressources check out at https://tilburgsciencehub.com - info about my research can be found at https://alexandervossen.github.io 
+I am Alex and I teach Data Science and Entrepreneurship to students and do research on entrepreneurs in digital markets. For teaching stuff and ressources check out at https://tilburgsciencehub.com - info about my research can be found at https://alexandervossen.github.io. 
 
 <!--
 **alexandervossen/alexandervossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
